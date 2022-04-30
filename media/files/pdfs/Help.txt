@@ -1,0 +1,15 @@
+The Construction of Undergraduate Machine Learning Course in the Artificial Intelligence Era:
+
+Project Requirements:
+ 
+-->Install pytesseract
+-->tessdata folder
+-->tesseract software install and set path  of properties-->Advanced system settings-->Environment variables
+Path-->;C:\Program Files (x86)\Tesseract-OCR;C:\Program Files (x86)\Tesseract-OCR\tessdata
+-->Variable_name-->TESSDATA_PREFIX
+-->variable_value-->C:\Program Files (x86)\Tesseract-OCR\tessdata
+-->Install numpy
+-->Install pandas
+-->install scikit-learn
+-->Install pillow
+-->Install matplotlib

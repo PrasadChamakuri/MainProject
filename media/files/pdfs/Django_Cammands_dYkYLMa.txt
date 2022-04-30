@@ -1,0 +1,38 @@
+##installing pip:
+
+pip install Django
+py -m Django --version
+
+--------------------------------------------
+
+##creating project:
+
+Django-admin startproject projectname
+
+-------------------------------------------
+
+##appCreation:
+
+python manage.py startapp appName
+--------------------------------------------
+##runServer:
+
+python manage.py runserver 
+
+
+
+------------------packages---------------
+
+pip install opencv-contrib-python
+
+pip install opencv-python
+
+pip install pillow
+
+pip install numpy
+
+pip install nltk
+
+pip install mysqlclient
+
+
